@@ -1,4 +1,9 @@
-#include<bits/stdc++.h>
+#include <iostream>
+#include<conio.h>
+#include<stdlib.h>
+#include<string.h>
+#include <windows.h>
+#include <time.h>
 
 #define WIN_WIDTH 70
 #define SCREEN_WIDTH 90
